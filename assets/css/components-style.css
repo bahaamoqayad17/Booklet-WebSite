@@ -1,0 +1,43 @@
+button.outlined {
+  background-color: transparent;
+  border: 1px solid var(--mainColor);
+  color: #fff;
+  cursor: pointer;
+}
+
+button.fill {
+  background-color: var(--mainColor);
+  border: 1px solid var(--mainColor);
+  cursor: pointer;
+  border-radius: 4px;
+  color: #fff !important;
+}
+
+button.fill-white {
+  background-color: white;
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 4px;
+  color: black;
+}
+
+section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.fs-24 {
+  font-size: 24px;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.fs-28 {
+  font-size: 28px;
+}
+
+.fw-bold {
+  font-weight: 700;
+}
